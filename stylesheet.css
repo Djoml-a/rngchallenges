@@ -1,0 +1,58 @@
+#Header {
+    color:white;
+    font-size: 20px;
+    text-align:center;
+    font-family: 'Montserrat'
+}
+#explanation {
+    text-align:center;
+    color: white;
+    font-size:20px;
+    font-family: 'Montserrat';
+}
+#body {
+    background-color:black;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 300px 300px;
+    min-height:100vh;
+    display: grid;
+}
+#car {
+    color:white;
+    text-align:center;
+    font-size: 40px;
+    font-family: 'Montserrat'
+}
+#tune {
+    color:white;
+    font-size:40px;
+    text-align:center;
+    font-family: 'Montserrat'
+}
+#track {
+    color:white;
+    font-size:40px;
+    text-align:center;
+    font-family: 'Montserrat'
+}
+#generateBtn {
+    text-align:center;
+    display: block;
+    margin:auto;
+    height:80px;
+    width:150px;
+    font-size:28px;
+}
+#logo {
+    display:block;
+    margin: auto !important;
+    width:250px;
+    height:250px;
+}
+#logo:hover {
+    transform: scale(1.1);
+}
+#link {
+    display:inline-block;
+}
